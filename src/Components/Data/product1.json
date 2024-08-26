@@ -1,0 +1,213 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "product_name": "Apple MacBook Pro",
+      "category": "Computers",
+      "price": "1299",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "5",
+      "product_name": "Dell XPS 13",
+      "category": "Computers",
+      "price": "999",
+      "Product_dealer": "Dell Store"
+    },
+    {
+      "id": "7",
+      "product_name": "HP Spectre x360",
+      "category": "Computers",
+      "price": "1199",
+      "Product_dealer": "HP Store"
+    },
+    {
+      "id": "8",
+      "product_name": "Microsoft Surface Laptop 4",
+      "category": "Computers",
+      "price": "999",
+      "Product_dealer": "Microsoft Store"
+    },
+    {
+      "id": "9",
+      "product_name": "Google Pixel 6",
+      "category": "Electronics",
+      "price": "699",
+      "Product_dealer": "Google Store"
+    },
+    {
+      "id": "10",
+      "product_name": "Sony PlayStation 5",
+      "category": "Gaming",
+      "price": "499",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "11",
+      "product_name": "Nintendo Switch",
+      "category": "Gaming",
+      "price": "299",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "12",
+      "product_name": "Xbox Series X",
+      "category": "Gaming",
+      "price": "499",
+      "Product_dealer": "Microsoft Store"
+    },
+    {
+      "id": "13",
+      "product_name": "Apple iPad Pro",
+      "category": "Tablets",
+      "price": "799",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "14",
+      "product_name": "Samsung Galaxy Tab S7",
+      "category": "Tablets",
+      "price": "649",
+      "Product_dealer": "Flipkart"
+    },
+    {
+      "id": "15",
+      "product_name": "Lenovo Yoga Smart Tab",
+      "category": "Tablets",
+      "price": "249",
+      "Product_dealer": "Lenovo Store"
+    },
+    {
+      "id": "16",
+      "product_name": "Canon EOS R6",
+      "category": "Cameras",
+      "price": "2499",
+      "Product_dealer": "Best Buy"
+    },
+    {
+      "id": "17",
+      "product_name": "Nikon Z6 II",
+      "category": "Cameras",
+      "price": "1999",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "18",
+      "product_name": "Sony Alpha 7 IV",
+      "category": "Cameras",
+      "price": "2499",
+      "Product_dealer": "Sony Store"
+    },
+    {
+      "id": "19",
+      "product_name": "DJI Mavic Air 2",
+      "category": "Drones",
+      "price": "799",
+      "Product_dealer": "DJI Store"
+    },
+    {
+      "id": "20",
+      "product_name": "GoPro HERO9 Black",
+      "category": "Cameras",
+      "price": "399",
+      "Product_dealer": "GoPro Store"
+    },
+    {
+      "id": "21",
+      "product_name": "Asus ROG Zephyrus G14",
+      "category": "Computers",
+      "price": "1449",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "22",
+      "product_name": "Razer Blade 15",
+      "category": "Computers",
+      "price": "1699",
+      "Product_dealer": "Razer Store"
+    },
+    {
+      "id": "23",
+      "product_name": "Acer Predator Helios 300",
+      "category": "Computers",
+      "price": "1299",
+      "Product_dealer": "Best Buy"
+    },
+    {
+      "id": "24",
+      "product_name": "JBL Flip 5",
+      "category": "Electronics",
+      "price": "119",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "25",
+      "product_name": "Sonos One",
+      "category": "Electronics",
+      "price": "199",
+      "Product_dealer": "Sonos Store"
+    },
+    {
+      "id": "26",
+      "product_name": "Amazon Echo Dot",
+      "category": "Electronics",
+      "price": "49",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "27",
+      "product_name": "Philips Hue Starter Kit",
+      "category": "Smart Home",
+      "price": "199",
+      "Product_dealer": "Philips Store"
+    },
+    {
+      "id": "28",
+      "product_name": "Nest Learning Thermostat",
+      "category": "Smart Home",
+      "price": "249",
+      "Product_dealer": "Google Store"
+    },
+    {
+      "id": "29",
+      "product_name": "Ring Video Doorbell",
+      "category": "Smart Home",
+      "price": "99",
+      "Product_dealer": "Amazon"
+    },
+    {
+      "id": "30",
+      "product_name": "iRobot Roomba 694",
+      "category": "Smart Home",
+      "price": "274",
+      "Product_dealer": "Best Buy"
+    },
+    {
+      "id": "31",
+      "product_name": "iRobot Roomba 694",
+      "category": "Smart Home",
+      "price": "274",
+      "Product_dealer": "Dummy Dealer"
+    }
+  ],
+  "users": [
+    {
+      "id": "d3cc",
+      "user_id": "1",
+      "user_name": "hemanth",
+      "user_email": "hemanth@gmail.com"
+    },
+    {
+      "id": "9448",
+      "user_id": "12",
+      "user_name": "test1",
+      "user_email": "test12@gmail.com"
+    },
+    {
+      "id": "e3f9",
+      "user_id": "21",
+      "user_name": "test",
+      "user_email": "test22@gmail.com"
+    }
+  ]
+}
