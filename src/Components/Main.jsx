@@ -217,7 +217,7 @@ function Main() {
                         </button>
                     </div>
 
-                    <div style={{ height: '100%', width: '120%' }}>
+                    <div style={{ height: '100%', width: '120%',marginRight:"1000px"}}>
                         <DataGrid
                             rows={filteredData}
                             columns={columns}
